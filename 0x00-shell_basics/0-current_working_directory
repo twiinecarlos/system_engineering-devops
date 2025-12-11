@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+# Script that prints the absolute path of the current working directory
+>>>>>>> 59553a2 (Add Task 0, 1, and 3 shell scripts)
 pwd

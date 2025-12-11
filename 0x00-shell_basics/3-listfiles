@@ -1,0 +1,4 @@
+#!/bin/bash
+# Script that lists the contents of the current directory in long format
+
+ls -l
