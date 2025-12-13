@@ -1,2 +1,2 @@
 #!/bin/bash
-<o>
+rm 0-alias file_1 file_2 test_alias.sh
