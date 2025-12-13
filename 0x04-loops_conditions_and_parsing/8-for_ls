@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# 
+for file in *; do
+    # Skip hidden files
+    [ -e "$file" ] || continue
+    echo "${file#*-}"
+done
