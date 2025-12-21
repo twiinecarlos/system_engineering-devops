@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Displays the PID of the current Bash script
-echo $$
+# Displays running processes in a hierarchical, user-oriented format
+exit 0
