@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Display running processes showing only PPID and command
+# Display running processes showing only PPID and the full command
 
 ps -o ppid,cmd
