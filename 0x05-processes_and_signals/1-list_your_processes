@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Displays all running processes with hierarchy and user-oriented format
+# Displays running processes with PPID, TIME, and command
 
-ps axjf
+ps -o ppid,time,cmd
