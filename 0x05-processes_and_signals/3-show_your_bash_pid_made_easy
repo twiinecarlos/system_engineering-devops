@@ -1,1 +1,5 @@
+#!/bin/bash
+# 3-show_your_bash_pid_made_easy
 
+# Use pgrep to find processes with "bash" in the name
+pgrep -l bash
