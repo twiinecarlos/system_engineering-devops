@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Displays running processes with PPID, TIME, and command
+# Display running processes showing only PPID and command
 
-ps -o ppid,time,cmd
+ps -o ppid,cmd
