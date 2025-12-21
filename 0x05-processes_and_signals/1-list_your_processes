@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Displays a comprehensive list of all running processes with hierarchy
+# Displays all running processes with hierarchy and user-oriented format
 
-# List all processes with user-oriented format and process hierarchy
 ps axjf
